@@ -15,9 +15,9 @@ In this game, you work in a company since you are 18. You can save $10000 every 
 When your age in the game is 65, the game will end. If your money at age 65 is higher than a threshold value, your win. Otherwise, you lose. If you win, your score(money) will be recorded in the leaderboard.
 
 ## **Introduce the game rules**
-Initial Status
-Your age is 18.
-Your initial bank balance is $10000.
+Initial Status:  
+Your age is 18.  
+Your initial bank balance is $10000.  
 Market value of your portfolio is $0.
 
 ### **How to play/What to do**
